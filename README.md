@@ -1,5 +1,6 @@
 # DDT-exam
 ### 1. HTML 
+<img width="240" alt="截圖 2023-10-19 下午5 55 26" src="https://github.com/linda-pai/DDT-exam/assets/66729413/0f31a1b8-0ebf-42aa-a2a8-cac8eedffa85">
 
 ```
 <head>
