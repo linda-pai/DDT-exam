@@ -126,11 +126,16 @@ export default Count;
 ```
 ### 3. What is different between framwork base website and traditional website?
 
+#### Framework-based: 
+ Uses pre-built tools and conventions, more faster development and built-in support for scalability.
+
+#### Traditional:
+ Built from scratch, offering more control, more flexibility and customization and scalable with more custom development.
 
 
 ### 4. 
 
-## Q1: Please follow the principle (‘firstName’ + ‘lastName’ + ‘customerID’) to sort this array and print it out.
+#### Q1: Please follow the principle (‘firstName’ + ‘lastName’ + ‘customerID’) to sort this array and print it out.
   ```
 let arr = [];
 arr = [
