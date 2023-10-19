@@ -1,5 +1,5 @@
 # DDT-exam
-### 1. HTML   (/addStyling.html)
+### 1. HTML   ( /addStyling.html )
 <img width="240" alt="截圖 2023-10-19 下午5 55 26" src="https://github.com/linda-pai/DDT-exam/assets/66729413/0f31a1b8-0ebf-42aa-a2a8-cac8eedffa85">
 
 ```
@@ -80,7 +80,7 @@
 
 
 
-### 2. Explain the problem with the following code, and how to fix it. (/Count.tsx)
+### 2. Explain the problem with the following code, and how to fix it. ( /Count.tsx )
 ```
 import React from "react";
 import ReactDOM from "react-dom";
@@ -135,7 +135,7 @@ export default Count;
 
 ### 4. 
 
-#### Q1: Please follow the principle (‘firstName’ + ‘lastName’ + ‘customerID’) to sort this array and print it out. (/sortUserName.js)
+#### Q1: Please follow the principle (‘firstName’ + ‘lastName’ + ‘customerID’) to sort this array and print it out. ( /sortUserName.js )
   ```
 let arr = [];
 arr = [
@@ -169,7 +169,7 @@ export function arraySortByFullName(arr) {
 }
 ```
 
-## Q2:Please sort by ‘profession’ to follow the principle. (/sortByType.js)
+#### Q2:Please sort by ‘profession’ to follow the principle. ( /sortByType.js )
 ```
 export function arraySortByType(arr) {
   let type = {
